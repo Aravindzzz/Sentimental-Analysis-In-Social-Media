@@ -8,7 +8,7 @@ This is a Streamlit web application that allows users to register, log in, and a
 - `requirements.txt`: List of required Python packages.
 - `Twitter_sentiment.pkl`: Pre-trained sentiment analysis model.
 -  [Open ML Model in Google Colab](https://colab.research.google.com/drive/1x66LutDR-55EQyz4MQfKYlH06ZaeFaHA?usp=sharing)
--  ## Train the model in jupyter or colab using the previous link and a .pkl file will be created which is your pretrained ML model.
+   ## Train the model in jupyter or colab using the previous link and a .pkl file will be created which is your pretrained ML model.
 
 ## Features
 
