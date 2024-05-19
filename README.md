@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis App 
 
-This is a Streamlit web application that allows users to register, log in, and analyze the sentiment of their tweets. The app uses a pre-trained sentiment analysis model to classify tweets as Positive, Negative, Neutral, or Irrelevant. Users under the age of 18 are restricted to posting only positive tweets. The app also displays a sentiment distribution pie chart for the logged-in user's tweets. ML MODEL COLAB : https://colab.research.google.com/drive/1x66LutDR-55EQyz4MQfKYlH06ZaeFaHA?usp=sharing
+This is a Streamlit web application that allows users to register, log in, and analyze the sentiment of their tweets. The app uses a pre-trained sentiment analysis model to classify tweets as Positive, Negative, Neutral, or Irrelevant. Users under the age of 18 are restricted to posting only positive tweets. The app also displays a sentiment distribution pie chart for the logged-in user's tweets. 
 
 ## Features
 
@@ -42,6 +42,8 @@ This is a Streamlit web application that allows users to register, log in, and a
 - `requirements.txt`: List of required Python packages.
 - `Twitter_sentiment.pkl`: Pre-trained sentiment analysis model.
 - Using the model.pdf , train the model in jupyter and a .pkl file created which is your pretrained ML model.
+- [Open ML Model in Google Colab](https://colab.research.google.com/drive/1x66LutDR-55EQyz4MQfKYlH06ZaeFaHA?usp=sharing)
+
 
 ## How It Works
 
