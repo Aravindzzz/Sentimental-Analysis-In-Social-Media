@@ -58,6 +58,5 @@ This is a Streamlit web application that allows users to register, log in, and a
 
 
 
-- [Streamlit](https://www.streamlit.io/)
-- [Plotly](https://plotly.com/python/)
+
 
