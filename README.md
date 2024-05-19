@@ -55,16 +55,8 @@ This is a Streamlit web application that allows users to register, log in, and a
 - Improve the relevance prediction model.
 - Enhance the user interface for a better user experience.
 
-## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-
-## Acknowledgements
 
 - [Streamlit](https://www.streamlit.io/)
 - [Plotly](https://plotly.com/python/)
 
-## Contact
-
-For any questions or feedback, please contact aravindsp761@gmail.com
