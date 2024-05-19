@@ -31,9 +31,6 @@ This is a Streamlit web application that allows users to register, log in, and a
     pip install -r requirements.txt
     ```
 
-3. **Download the pre-trained models**:
-    - Place `Twitter_sentiment.pkl` in the project directory.
-
 ## Usage
 
 1. **Run the Streamlit app**:
