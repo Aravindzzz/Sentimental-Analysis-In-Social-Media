@@ -41,6 +41,7 @@ This is a Streamlit web application that allows users to register, log in, and a
 - `app.py`: Main application code.
 - `requirements.txt`: List of required Python packages.
 - `Twitter_sentiment.pkl`: Pre-trained sentiment analysis model.
+- Using the model.pdf , train the model in jupyter and a .pkl file created which is your pretrained ML model.
 
 ## How It Works
 
